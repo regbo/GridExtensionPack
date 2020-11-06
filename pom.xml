@@ -10,7 +10,6 @@
 
 	<modules>
 		<module>GridExtensionPack-v7</module>
-		<module>GridExtensionPack-demo</module>
 	</modules>
 
 </project>
